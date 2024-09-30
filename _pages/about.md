@@ -20,6 +20,8 @@ I am an incoming MSc student in [Computer Science](https://cs.columbia.edu/) at 
 
 I graduated in June 2024 from [Sabanci University](https://cs.sabanciuniv.edu/) with a B.Sc. in Computer Science and Engineering. For two semesters, I worked as a Learning Assistant for the course [Computational Approaches to Problem Solving](https://sites.google.com/sabanciuniv.edu/if100).
 
+I also completed my Erasmus exchange program in Computer Science and Engineering at [Uppsala University](https://www.uu.se/en/study/subject/computer-science) in Sweden.
+
 In my final year at Sabanci University, I started to work on my graduation project centered on habit formation, employing causal inference and machine learning techniques to investigate factors influencing the establishment of consistent exercise habits.
 
 During my university years, I worked in the industry as a Data Scientist at [Mars Athletic Club](https://www.macfit.com/en/).
