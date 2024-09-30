@@ -7,8 +7,7 @@ first_name: Taner
 middle_name: Giray
 last_name: Sönmez
 email: tgs2126@columbia.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  tanersonmez.net
+description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Design inspired by the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Last update: 29 September 2024.
 keywords: taner, tanersonmez, taner-sonmez, sonmez, taners # add your own keywords or leave empty
