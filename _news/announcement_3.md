@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are going to publish an academic article about our graduation project soon.
+We will soon publish our graduation project article in a journal.
