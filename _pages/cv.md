@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 2
 cv_pdf: taner_cv.pdf
-description: Last updated - September 2025.
+description: Last updated - October 2025.
 toc:
   sidebar: left
 ---
